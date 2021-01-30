@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d63654e19a0c8d45becb58afa7ee159, type: 3}
+  m_Name: Tutorial_script
+  m_EditorClassIdentifier: 
+  description:
+  - 'Hey!  Welcome to my first game:
+
+    "Through the Gate"
+
+
+    Let me walk you
+    through the tutorial.'
+  - Touch here to move left
+  - Touch here to move right
+  - Level Up
+  - 'Game Over
+
+'
+  - 'Breaking blocks above the paddle will open the gates.
+
+    Hance, will increase
+    your chance to "Level Up" but will not give you any "Points"'
+  - "Breaking blocks below \nyour paddle will increase your \nchance of \"Loosing\"
+    but will \ngrand you \"Points\""
+  - "So be clever! \nI hope you understand.\n"
+  - 'Because let me tell you, the only goal in the game is to:
+
+    "Score as Much
+    as you can"'
+  - Good Luck !!!
